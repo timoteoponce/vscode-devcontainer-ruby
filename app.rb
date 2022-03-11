@@ -1,5 +1,6 @@
-require 'sinatra'
 
-get '/' do
-    'Hello, World!'
-end
+puts "Hello world"
+
+name = "Timoteo Ponce"
+
+puts "My name is #{name}"
